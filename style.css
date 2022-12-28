@@ -1,0 +1,30 @@
+main {
+  border: solid 5px #4285f4;
+  color: white;
+  width: 300px;
+  text-align: center;
+}
+
+p {
+  padding: 20px;
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.north {
+  background-color: #E67676;
+}
+
+.east {
+  background-color: #F2F062;
+}
+
+.south {
+  background-color: #A9E6E6;
+}
+
+.west {
+  background-color: #7692E4;
+}
